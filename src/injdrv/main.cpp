@@ -1,6 +1,7 @@
 
 #include "../injlib/injlib.h"
 #include <strsafe.h>
+#include "resource.h"
 
 //////////////////////////////////////////////////////////////////////////
 // DriverEntry and DriverDestroy.
